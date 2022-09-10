@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <th width=300>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=50 height=80 />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=60 height=90 />
     </th>
   </tr>
 
