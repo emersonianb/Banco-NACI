@@ -3,7 +3,6 @@
 # Proles Bank
 
 <p> <h2> Repositório criado para compartilhar o projeto desenvolvido para a cadeira de Programação Orientada a Objetos </h2> </p> <br>
-<hr>
 <table align="center">
   <tr>
     <th width=300> <h2> Linguagem </h2> </th>
